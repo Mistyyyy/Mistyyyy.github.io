@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import '../utils/global.css';
 
 import { rhythm, scale } from "../utils/typography"
 
@@ -66,6 +67,8 @@ class Layout extends React.Component {
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
+          {` | `}
+          <a href="https://github.com/Mistyyyy" target="_blank" rel="noopener noreferrer">Github</a>
         </footer>
       </div>
     )
