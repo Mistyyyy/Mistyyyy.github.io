@@ -1,3 +1,3 @@
 # harleys.io
 
-my blog with log some experience
+The blog will write something about javascript, webpack, react, and other technical stack
